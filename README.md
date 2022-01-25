@@ -1,2 +1,2 @@
 # Recipes
-A list of recipes helping me learn HTML
+The first website I ever built, done according to the Odin Project's curriculum 
